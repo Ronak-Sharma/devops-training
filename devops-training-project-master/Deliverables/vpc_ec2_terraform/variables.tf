@@ -69,7 +69,7 @@ variable "instance_name" {
 #}
 
 variable "instance_type" {
-  default =  "t2.2xlarge"
+  default =  "t2.micro"
   type    = string
 }
 
